@@ -1,4 +1,4 @@
 development:
-  store: galactic-box-shop.myshopify.com
-  password: shptka_9432e3ad1264f731b05583f0ae1dbf05
-  theme_id: 130263711952
+  store: STORE_URL
+  password: PASSWORD
+  theme_id: THEME_ID

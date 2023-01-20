@@ -1,3 +1,5 @@
+require(‘dotenv’).config()
+
 window.theme = window.theme || {};
 
 /* ================ SLATE ================ */
